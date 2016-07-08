@@ -126,7 +126,7 @@ void loop() {
         explode();
       if(passwordFound)
       {
-        if(overrideGame())
+        //if(overrideGame()) // this game needs to be improved
           printWire();
       }
       break;
